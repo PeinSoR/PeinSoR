@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<h1 align="center">Hi, I'm Alejandro Huesca <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fstickers%2FMoveWellness-saludo-manos-movewellness-8rWn07iZuipP4IU5k6&psig=AOvVaw0J_lK7DVo35ahSSGHu5cGq&ust=1737046118196000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNiVzpiX-IoDFQAAAAAdAAAAABAE" width "35"> </h1>
 <!--
 **PeinSoR/PeinSoR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
