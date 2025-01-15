@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Alejandro Huesca <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXdlN2oxNjNma2N3eGV4aGc5cnQ4bTV3eWFxdnJxaHZhNThoNm9xMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8rWn07iZuipP4IU5k6/giphy.gif" width "35"> </h1>
+<h1 align="center">Hi, I'm Alejandro Huesca <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXdlN2oxNjNma2N3eGV4aGc5cnQ4bTV3eWFxdnJxaHZhNThoNm9xMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8rWn07iZuipP4IU5k6/giphy.gif" width="35" lenght="35"> </h1>
 <!--
 **PeinSoR/PeinSoR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
