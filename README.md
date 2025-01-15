@@ -1,7 +1,5 @@
  <h1 align="center">Hello there, I'm Alejandro Huesca <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXdlN2oxNjNma2N3eGV4aGc5cnQ4bTV3eWFxdnJxaHZhNThoNm9xMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8rWn07iZuipP4IU5k6/giphy.gif" width="35" lenght="35"> </h1>
-    <div align="center">    
-        <div class="tenor-gif-embed" data-postid="850919420122869846" data-share-method="host" data-aspect-ratio="1.776" data-width="25%"><a href="https://tenor.com/view/hello-there-gif-850919420122869846"></a>from <a href="https://tenor.com/search/hello+there-memes"></a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-    </div>
+    
     <hr>
     <h2 align="center">I'm a software developer and I'm currently studying at the Higher School of Computing (ESCOM - IPN)</h2>
 
